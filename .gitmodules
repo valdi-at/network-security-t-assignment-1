@@ -1,9 +1,12 @@
 [submodule "keycloak"]
 	path = keycloak
 	url = https://github.com/valdi-at/network-security-t-assignment-1-keycloak
+	branch = master
 [submodule "ory-hydra"]
 	path = ory-hydra
 	url = https://github.com/valdi-at/network-security-t-assignment-1-ory-hydra
+	branch = master
 [submodule "app"]
 	path = app
 	url = https://github.com/valdi-at/network-security-t-assignment-1-app
+	branch = master
