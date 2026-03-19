@@ -1,0 +1,9 @@
+[submodule "keycloak"]
+	path = keycloak
+	url = https://github.com/valdi-at/network-security-t-assignment-1-keycloak
+[submodule "ory-hydra"]
+	path = ory-hydra
+	url = https://github.com/valdi-at/network-security-t-assignment-1-ory-hydra
+[submodule "app"]
+	path = app
+	url = https://github.com/valdi-at/network-security-t-assignment-1-app
